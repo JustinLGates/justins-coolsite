@@ -4,6 +4,7 @@
 }
 footer {
   background: var(--primary);
+
   min-height: 100px;
 }
 h1 {
@@ -26,11 +27,7 @@ main {
 }
 .container {
   margin: auto;
-  border: 2px solid white;
   background: white;
-  width: 80%;
-  height: 80%;
-  max-width: 100px;
 }
 .line {
   margin: auto;
@@ -46,6 +43,9 @@ main {
 }
 .w-80 {
   width: 80%;
+}
+.w-60 {
+  width: 60%;
 }
 .center {
   text-align: center;
