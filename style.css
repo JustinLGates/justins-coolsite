@@ -19,18 +19,14 @@ header {
   min-height: 80px;
 }
 body {
-  background: black;
   font-family: "Raleway", sans-serif;
-  min-height: 100vw;
-  position: absolute;
 }
-main {
-  min-height: 100%;
-}
+
 .container {
   margin: auto;
   background: white;
 }
+
 .line {
   margin: auto;
   background-color: var(--secondary);
@@ -65,7 +61,7 @@ img.pt-1 {
   padding-left: 1.5rem;
 }
 .left-pad {
-  padding-left: 15%;
+  padding-left: 10%;
 }
 h4 {
   margin: 2px 0px 0px 0px;
@@ -78,8 +74,9 @@ h4 {
   margin-top: 10%;
 }
 #footer {
-  position: absolute;
+  margin-top: 10px;
+  position: sticky;
   bottom: 0;
   width: 100%;
-  height: 2.5rem;
+  height: 60px;
 }
