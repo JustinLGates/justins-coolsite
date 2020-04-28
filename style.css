@@ -5,7 +5,7 @@
 footer {
   background: var(--primary);
 
-  min-height: 100px;
+  min-height: 140px;
 }
 h1 {
   font-size: 36pt;
@@ -45,7 +45,7 @@ main {
   width: 80%;
 }
 .w-60 {
-  width: 60%;
+  width: 70%;
 }
 .center {
   text-align: center;
@@ -55,6 +55,12 @@ main {
 }
 .p-1 {
   padding: 1rem;
+}
+img.pt-1 {
+  padding-top: 3.5rem;
+}
+.pl-1 {
+  padding-left: 1.5rem;
 }
 .left-pad {
   padding-left: 15%;
