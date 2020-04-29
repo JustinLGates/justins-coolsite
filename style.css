@@ -36,8 +36,7 @@ body {
   margin: auto;
   background: white;
 }
-html {
-}
+
 .box {
   display: flex;
   min-height: 100vh;
